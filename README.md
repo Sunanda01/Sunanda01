@@ -27,4 +27,4 @@
 <br><br>
 ## 🏆 My Github Trophies
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="sunanda01" alt="sunanda01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunanda01" alt="sunanda01" /></a> </p>
