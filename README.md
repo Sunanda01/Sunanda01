@@ -43,5 +43,5 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/><br/>
 ## 🏆 My Github Trophies
-<br>
+<br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunanda01" alt="sunanda01" /></a> </p>
