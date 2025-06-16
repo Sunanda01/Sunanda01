@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sunanda Sadhukhan</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunanda01&label=Profile%20views&color=0e75b6&style=flat" alt="sunanda01" /> </p>
+<br>
+<span><a href="https://sunandasadhukhan.netlify.app/"  target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio" /></a></span>
+<br><br>
+
+## 🙋‍♂️About Me
 
 - 🌱 I’m currently learning ****MERN Stack****
 
@@ -10,6 +15,13 @@
 - 📫 How to reach me **sunandasadhukhan1@gmail.com**
 
 - ⚡ Fun fact **I always like to interact with new people ;)**
+ <br><br>
+
+## ❤Connect with me 
+<p align="left" >
+<a href="https://www.linkedin.com/in/sunanda-sadhukhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sunanda Sadhukhan" height="30" width="40" /></a>
+</p>
+<br>
 
 ## 🚀Languages and Tools
 <p align="center">
