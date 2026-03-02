@@ -8,7 +8,9 @@
 
 ## 🙋‍♂️About Me
 
-- 🌱 I’m currently learning ****Spring Boot**** and Upskilling in ****LLM Engineering****
+- 🌱 Currently working at Tata Elxsi
+  
+- 🚀 Learning Spring Boot & Upskilling in LLM Engineering
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sunanda01](https://github.com/Sunanda01)
 
