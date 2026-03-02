@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunanda Sadhukhan</h1>
-<h3 align="center">A Full-Stack Web Developer</h3>
+<h3 align="center">Always learning. Always building.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunanda01&label=Profile%20views&color=0e75b6&style=flat" alt="sunanda01" /> </p>
 <br>
